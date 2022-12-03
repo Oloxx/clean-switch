@@ -1,5 +1,5 @@
 # clean-switch
-A simple guide to unhack switch
+A simple guide to unhack a switch
 
 0. **Inicio**
 - Apaga la switch y extrae la micro SD.
