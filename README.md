@@ -12,6 +12,7 @@ A simple guide to unhack a switch
   1.1. hekate
   - Abre la carpeta hekate_ctcaer.
   - Mueve la carpeta `bootloader` a la raíz de la SD.
+  - Vuelve a meter la SD a la switch
 
   1.2. tegra
   - Abre la carpeta TegraRcmGUI.
