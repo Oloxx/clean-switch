@@ -18,7 +18,7 @@ A simple guide to unhack a switch
   - Abre la carpeta TegraRcmGUI.
   - Abre el archivo `TegraRcmGUI.exe`.
   - Pulsa en el boton de Select payload y busca el archivo `hekate_ctcaer_5.9.0.bin` en la carpeta de hekate.
-  - Conecta la switch al PC por usb-c.
+  - Conecta la switch al PC por usb-c i pulsa el boton inject payload.
 
 ![tegra](https://i.ibb.co/mv9dk59/Captura-de-pantalla-20221203-131016.png)
 
